@@ -23,4 +23,4 @@ Just two factors, along with others like heart disease and hypertension, signifi
 # ML models
 
 Finally, using the data I have, I develop a machine learning model with accuracy of 97% to aid in the early detection of this condition.
- 
+![score](https://user-images.githubusercontent.com/67378945/235771323-5a4e921a-7407-45a6-8cc4-b0c9981a5ac2.jpg)
